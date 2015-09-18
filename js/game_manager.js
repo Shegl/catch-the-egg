@@ -27,7 +27,7 @@ GameManager.prototype.init = function () {
 
   this.count = 4;
   this.level = 1;
-  this.speed = 1600;
+  this.speed = 400;
   // this.maxSpeed = 200;
   this.interval = this.speed*2.5;
   this.point = 4;
